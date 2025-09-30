@@ -1,0 +1,9 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fork -->
+    <path d="M9 5V13C9 14.6569 10.3431 16 12 16V26" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round"/>
+    <path d="M7 5V9M11 5V9" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round"/>
+
+    <!-- Spoon -->
+    <path d="M20 5C22 5 23.5 6.34315 23.5 8.5C23.5 10.6569 22 12 20 12C18 12 16.5 10.6569 16.5 8.5C16.5 6.34315 18 5 20 5Z" stroke="#FCFCFC" stroke-width="0.8"/>
+    <path d="M20 12V26" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round"/>
+</svg>

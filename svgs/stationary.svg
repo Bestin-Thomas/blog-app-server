@@ -1,0 +1,8 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- pencil -->
+    <path d="M6.8 23.2l6.5-6.5 3.4 3.4-6.5 6.5H6.8z" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M18.7 11.8l-3.4-3.4 3.8-3.8c0.8-0.8 2-0.8 2.8 0l0.6 0.6c0.8 0.8 0.8 2 0 2.8L18.7 11.8z" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+    <!-- ruler -->
+    <path d="M8 8h8" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round"/>
+    <path d="M9 9v-1M11 9v-1M13 9v-1" stroke="#FCFCFC" stroke-width="0.6" stroke-linecap="round"/>
+</svg>

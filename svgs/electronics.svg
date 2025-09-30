@@ -1,0 +1,8 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- phone -->
+    <rect x="6" y="4" width="12" height="22" rx="2" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="12" cy="24" r="0.9" fill="#FCFCFC"/>
+    <!-- plug -->
+    <path d="M22 10v2m1.8 0v2c0 1.2-1 2.2-2.2 2.2H20" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M21 7v3" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round"/>
+</svg>

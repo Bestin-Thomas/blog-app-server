@@ -1,0 +1,7 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- lipstick -->
+    <path d="M9.5 20.5L15 15l3 3-5.5 5.5H9.5z" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="12" y="9" width="3.6" height="7.5" rx="0.6" transform="rotate(45 12 9)" stroke="#FCFCFC" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+    <!-- sparkle -->
+    <path d="M23 7.5l0.9 1.9L25.8 9l-1.9 0.9L23 11.8l-0.9-1.9L20.2 9l1.9-0.9L23 7.5z" stroke="#FCFCFC" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
